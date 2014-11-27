@@ -3,9 +3,7 @@
 	"version": "0.1.0",
 	"description": "IRC daemon and server library",
 	"author": "Aria Stewart",
-	"repositories": [{"type": "git",
-		  "path": "git://github.com/aredridel/node-ircd.git"
-	}],
+	"repository": "KenanY/node-ircd",
 	"homepage": "http://github.com/aredridel/node-ircd",
 	"bugs": "http://github.com/aredridel/node-ircd/issues",
 	"maintainers": [{"name": "Aria Stewart",
